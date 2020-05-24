@@ -1,0 +1,3 @@
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class1\Class1\obj\Debug\Class1.njsprojAssemblyReference.cache
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class1\Class1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class1\Class1\obj\Debug\Class1.njsproj.CoreCompileInputs.cache
